@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  3 NOV 2023 21:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  10 SEP 2024 10:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -987,22 +987,22 @@ Package pdftex.def Info: git.jpeg  used on input line 158.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--179
+Underfull \hbox (badness 10000) in paragraph at lines 179--181
 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+bch on input line 1
-94.
+97.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1bch.fd
 File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
 )
-Overfull \hbox (13.94403pt too wide) in paragraph at lines 206--207
+Overfull \hbox (13.94403pt too wide) in paragraph at lines 220--221
 []\OT1/bch/m/n/10 Optimization us-ing Op-er-a-tions Re-search and Heuris-tics m
 eth-ods for sev-eral projects. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 273--278
+Underfull \hbox (badness 10000) in paragraph at lines 274--279
 
  []
 
@@ -1012,17 +1012,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 273--278
 al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc} <./my-pic.jpg> <./gmail
 _icon.png> <./in_icon.png> <./git.jpeg>] (./DiazIGabriel_CV.aux) ) 
 Here is how much of TeX's memory you used:
- 17998 strings out of 476025
- 340108 string characters out of 5790017
- 1863388 words of memory out of 5000000
- 38178 multiletter control sequences out of 15000+600000
+ 17997 strings out of 476025
+ 340100 string characters out of 5790017
+ 1864388 words of memory out of 5000000
+ 38177 multiletter control sequences out of 15000+600000
  529745 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,16n,80p,459b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,16n,80p,456b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/t
 exlive/2023/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local/texl
 ive/2023/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on DiazIGabriel_CV.pdf (1 page, 389842 bytes).
+Output written on DiazIGabriel_CV.pdf (1 page, 389699 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
