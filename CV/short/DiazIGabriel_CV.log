@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  10 SEP 2024 10:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  10 SEP 2024 10:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -963,11 +963,11 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<my-pic.jpg, id=4, 1284.8pt x 722.7pt>
-File: my-pic.jpg Graphic file (type jpg)
-<use my-pic.jpg>
-Package pdftex.def Info: my-pic.jpg  used on input line 113.
-(pdftex.def)             Requested size: 121.63676pt x 68.4146pt.
+<my-pic.jpeg, id=4, 803.0pt x 803.0pt>
+File: my-pic.jpeg Graphic file (type jpg)
+<use my-pic.jpeg>
+Package pdftex.def Info: my-pic.jpeg  used on input line 113.
+(pdftex.def)             Requested size: 121.63676pt x 121.63332pt.
 <gmail_icon.png, id=5, 225.84375pt x 225.84375pt>
 File: gmail_icon.png Graphic file (type png)
 <use gmail_icon.png>
@@ -1009,20 +1009,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 274--279
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc} <./my-pic.jpg> <./gmail
-_icon.png> <./in_icon.png> <./git.jpeg>] (./DiazIGabriel_CV.aux) ) 
+al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc} <./my-pic.jpeg> <./gmai
+l_icon.png> <./in_icon.png> <./git.jpeg>] (./DiazIGabriel_CV.aux) ) 
 Here is how much of TeX's memory you used:
- 17997 strings out of 476025
- 340100 string characters out of 5790017
+ 17996 strings out of 476025
+ 340102 string characters out of 5790017
  1864388 words of memory out of 5000000
  38177 multiletter control sequences out of 15000+600000
  529745 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,16n,80p,456b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/t
-exlive/2023/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local/texl
-ive/2023/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on DiazIGabriel_CV.pdf (1 page, 389699 bytes).
+</usr/local/
+texlive/2023/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local/tex
+live/2023/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb>
+Output written on DiazIGabriel_CV.pdf (1 page, 133696 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
